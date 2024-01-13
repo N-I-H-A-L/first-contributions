@@ -13,6 +13,7 @@ Daniela Anghel
 - [Emmanuel](https://github.com/codesmith-emmy)
 - [Rose Liu](https://github.com/BlueRosy) An interesting contribution experience! Thanks. 🩷🩵
 - [Robin Van Persie](https://github.com/rvp20)
+- [Nihal Baranwal](https://github.com/N-I-H-A-L)
 - [Dithi-Fuzzythinker](https://github.com/fuzzythinker)
 - [Rohit R](https://github.com/Rohr0) 🔥
 - [17LingShan](https://github.com/17LingShan)
